@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: kyc-service
+
+
+camunda:
+  client:
+    mode: saas
+    auth:
+      client-id: PJe0A3o1.QncusknooV0K6QHTHY.JEF.
+      client-secret: XEwHd4KDcwugXy4wh9yFOKglH8fTdGk~L8UqRfU9lJZ.sZI2ffkg1GOmgCZj279u
+    cloud:
+      cluster-id: e0c19413-ad49-4f3b-9939-01d4f4998ce7
+      region: syd-1
